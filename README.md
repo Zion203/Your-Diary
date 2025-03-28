@@ -1,2 +1,2 @@
-# Your-Dairy
-Your personal dairy online.
+# Your-Diary
+Your personal diary online.
